@@ -1,6 +1,6 @@
 ![logo](https://github.com/saswasto/Saswasto/blob/main/Computer%20Science1.png)
 <h1 align="center">Hi 👋, I'm Saswato Basak</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer and python developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
