@@ -15,8 +15,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saswasto&show_icons=true&locale=en" alt="saswasto"height="200" width="300" /></p>
 <img align = "right" alt="coding"height="180" width="300"src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
-<p><img align="center" height="190" Weight="300" src="https://github-readme-streak-stats.herokuapp.com/?user=saswasto&" alt="saswasto" ></p>
-<p>
-  <img align="center" height="190" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=saswasto" alt="saswasto" />
-</p>
+<p><img align="center" height="190" Weight="300" src="https://github-readme-streak-stats.herokuapp.com/?user=saswasto&" alt="saswasto" /></p>
+
 
